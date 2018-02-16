@@ -1,0 +1,10 @@
+{
+  "name": "hackerrank-test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "node-fetch": "^2.0.0"
+  }
+}
